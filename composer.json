@@ -21,9 +21,9 @@
 	},
 	"minimum-stability": "dev",
 	"autoload": {
-		"psr-0": { "Unknownbliss\\ZurbFoundationBundle": "" }
+		"psr-0": { "Unknownbliss\\ZurbfoundationBundle": "" }
 	},
-	"target-dir": "Unknownbliss/ZurbFoundationBundle",
+	"target-dir": "Unknownbliss/ZurbfoundationBundle",
 	"extra": {
 		"branch-alias": {
 			"dev-master": "3.2.*-dev"

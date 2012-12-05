@@ -7,10 +7,10 @@
  * 
  */
 
-namespace Unknownbliss\ZurbFoundationBundle;
+namespace Unknownbliss\ZurbfoundationBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class UnknownblissZurbFoundationBundle extends Bundle
+class UnknownblissZurbfoundationBundle extends Bundle
 {
 }
